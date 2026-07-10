@@ -1,12 +1,14 @@
-"""
-Store at least 10 questions
-Ask questions randomly
-Accept user answer
-Check if correct
-Keep score
-Display final percentage
-Allow replay
-Add three difficulty levels:"""
+
+# list of questions 
+# store the answers 
+# add three difficulty
+
+# randomly pick questios
+# ask the questions
+# see if they are correct 
+# keep track of the score
+# tell the user thier score
+# allow replay
 
 import random
 
