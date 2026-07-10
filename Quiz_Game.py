@@ -12,6 +12,7 @@
 
 import random
 
+
 easy_questions = {
     "What keyword is used to define a function in Python?": "def",
     "Which data type stores whole numbers?": "int",
